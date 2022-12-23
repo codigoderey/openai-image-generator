@@ -8,7 +8,9 @@ En la base del directorio:
 
 ### `npm install`
 
-Corre el servidor en el puerto 5500.\
+No olvides ir a openai y crear un secret key. En la base del directorio crea un .env y ańado el secret key.  Recuerda ponerle el mismo nombre que en el documento server.js
+
+Corre el servidor en el puerto 5500.
 
 ### `npm run dev`
 
