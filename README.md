@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# ¿Como levantar esta aplicación?
 
 Este projecto es un ejemplo de como utilizar openai para generar una imagen basado en un input de texto.
 
